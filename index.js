@@ -19,7 +19,6 @@ $(document).ready(function() {
         );
       $('.tweetQuote').removeClass('disabled');
       $('.read').text('Next news');
-      console.log(currentQuote);
     });
   });
 });
