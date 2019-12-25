@@ -1,0 +1,19 @@
+body {
+  padding-top: 15px;
+}
+.quoteTitle {
+  font-size: 35px !important;
+  color: #4285f4 !important;
+}
+
+.quoteAuthor {
+  font-size: 28px !important;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+.btn:focus {
+  outline: none;
+}
